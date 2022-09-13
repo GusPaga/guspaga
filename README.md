@@ -3,12 +3,7 @@
 <h2 align="center">I´m a fullstack developer from Argentina 🌎 !!</h2>
 <br/>
 
-__IMPORTANTE__
-
-
-IMPORTANTE
-
-
+## 🙋‍♂️ About Me
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <br/>
-💌 si quieres contactarme:
+💌 Contact me:
 
 ###  💻  [linkedin](https://www.linkedin.com/in/gustavopagano03)
 ###  📧  [E-Mail](mailto:gustavopagano03@gmail.com)
