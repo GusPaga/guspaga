@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there, I´m Gustavo!!</h1>
+<br/>
+<h2 align="center">I´m a fullstack developer from Argentina 🌎 !!</h2>
+<br/>
 
-<!--
-**GusPaga/guspaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__IMPORTANTE__
+
+
+IMPORTANTE
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+💌 si quieres contactarme:
+
+###  💻  [linkedin](https://www.linkedin.com/in/gustavopagano03)
+###  📧  [E-Mail](mailto:gustavopagano03@gmail.com)
+
+
+<!--
