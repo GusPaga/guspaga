@@ -50,7 +50,7 @@
 
 
 <br/>
-<img align="center" height="1200px" width="600px" src="https://ibb.co/XWbP6Qn" alt="Cake&Bases-App" />
+<img align="center" height="1200px" width="600px" src="./C&B.PNG" alt="Cake&Bases-App" />
 
 <br/>
 💌 Contact me:
