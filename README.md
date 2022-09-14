@@ -20,7 +20,8 @@
 
 ### 💻 [Cake&Bases](https://cakes-and-bases.vercel.app/)
 
-    👉This is the final project for "Soy Henry", in this project we worked with 6 colleagues applying agile methodologies "SCRUM", dividing tasks and finally collaborating to reach the completion of the project.
+    👉This is the final project for "Soy Henry", in this project we worked with 6 colleagues applying agile methodologies "SCRUM",
+    dividing tasks and finally collaborating to reach the completion of the project.
 
 <br/>
 
