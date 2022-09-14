@@ -47,12 +47,11 @@
 
 </p>
 </details>
-
-
 <br/>
+
 <img align="center" height="1200px" width="600px" src="./C&B.PNG" alt="Cake&Bases-App" />
-
 <br/>
+
 💌 Contact me:
 
 ### 💻 [linkedin](https://www.linkedin.com/in/gustavopagano03)
