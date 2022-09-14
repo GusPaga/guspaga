@@ -19,10 +19,8 @@
 ## 🗂️ Highlight Projects
 
 ### 💻 [Cake&Bases](https://cakes-and-bases.vercel.app/)
-
     👉This is the final project for "Soy Henry", in this project we worked with 6 colleagues applying agile methodologies "SCRUM",
     dividing tasks and finally collaborating to reach the completion of the project.
-
 <br/>
 
 #### 👉In this proyect we use diferent libraries such as:
@@ -49,8 +47,14 @@
 </details>
 <br/>
 
-<img align="left" height="1200px" width="600px" src="./C&B.PNG" alt="Cake&Bases-App" />
+<img align="center" height="1200px" width="600px" src="./C&B.PNG" alt="Cake&Bases-App" />
 <br/>
+
+### 💻 [Foods](https://github.com/GusPaga/PI-Food)
+#### 👉In this project, I learned how to modularize my code, I improved the use of Css
+<img align="center" height="1200px" width="600px" src="./Foods.PNG" alt="PI-Food" />
+<br/>
+
 
 💌 Contact me:
 
