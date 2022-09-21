@@ -55,8 +55,9 @@
 <img align="center" height="1200px" width="600px" src="./Foods.PNG" alt="PI-Food" />
 <br/>
 
-### 💻 [Foods](https://github.com/GusPaga/pi-dog)
-### 🌎 [Foods](https://pi-dog-guspaga.vercel.app/)
+## "Dogs"
+### 💻 [GitHub](https://github.com/GusPaga/pi-dog)
+### 🌎 [Deploy](https://pi-dog-guspaga.vercel.app/)
 #### 👉in this project, I understood the GitHub flow, achieving several improvements in the code
 <img align="center" height="1200px" width="600px" src="./Foods.PNG" alt="PI-Food" />
 <br/>
