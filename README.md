@@ -50,7 +50,8 @@
 <img align="center" height="1200px" width="600px" src="./C&B.PNG" alt="Cake&Bases-App" />
 <br/>
 
-### 💻 [Foods](https://github.com/GusPaga/PI-Food)
+## "Foods"
+### 💻 [GitHub](https://github.com/GusPaga/PI-Food)
 #### 👉In this project, I learned how to modularize my code, I improved the use of Css
 <img align="center" height="1200px" width="600px" src="./Foods.PNG" alt="PI-Food" />
 <br/>
