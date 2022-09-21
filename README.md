@@ -48,13 +48,13 @@
 </details>
 <br/>
 
-<img align="center" height="600px" width="1200px" src="./C&B.PNG" alt="Cake&Bases-App" />
+<img align="center" height="600px" width="1200px" src="./C&B.png" alt="Cake&Bases-App" />
 <br/>
 
 ## "Foods"
 ### 💻 [GitHub](https://github.com/GusPaga/PI-Food)
 #### 👉In this project, I learned how to modularize my code, I improved the use of Css
-<img align="center" height="600px" width="1200px" src="./Foods.PNG" alt="PI-Foods" />
+<img align="center" height="600px" width="1200px" src="./Foods.png" alt="PI-Foods" />
 <br/>
 
 ## "Dogs"
