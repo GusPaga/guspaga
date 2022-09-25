@@ -70,5 +70,7 @@
 
 
 <h2 align="center">💌 Contact me:</h2>
-<h3 align="center">💻 [linkedin](https://www.linkedin.com/in/gustavopagano03) || 📧 [E-Mail](mailto:gustavopagano03@gmail.com)<h3>
+<h3 align="center">
+    <a href="https://www.linkedin.com/in/gustavopagano03">LinkedIn</a>
+    <href 💻 [linkedin](https://) || 📧 [E-Mail](mailto:gustavopagano03@gmail.com)<h3>
 <br/>
