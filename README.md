@@ -16,6 +16,8 @@
 <br/>
 <br/>
 
+<h1 align="center">Proyects</h1>
+<br/>
 
 ## Cake&Bases
 ### 🌎 [Deploy](https://cakes-and-bases.vercel.app/) || 📺 [YouTube](https://youtu.be/eyvWmnxu6-8)
@@ -61,6 +63,10 @@
 #### 👉in this project, I understood the GitHub flow, achieving several improvements in the code
 <img align="center" height="600px" width="1200px" src="./Dogs.PNG" alt="PI-Dogs"/>
 <br/>
+
+## My Hobbies
+🏃Runnig || 📷 Fotograph || 🚗 Mechanic
+
 
 💌 Contact me:
 
