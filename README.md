@@ -65,10 +65,9 @@
 <img align="center" height="600px" width="1200px" src="./Dogs.PNG" alt="PI-Dogs"/>
 <br/>
 
-<h2 align="center">My Hobbies</h2>
-<h3 align="center">🏃Runnig || 📷 Fotograph || 🚗 Mechanic<h3>
+<h3 align="center">My Hobbies</h3>
+<h4 align="center">🏃Runnig || 📷 Fotograph || 🚗 Mechanic<h4>
 <br/>
-
 
 <h3 align="center">💌 Contact me:</h3>
 <h4 align="center">
