@@ -16,7 +16,6 @@
 <br/>
 <br/>
 
-## 🗂️ Highlight Projects
 
 ## Cake&Bases
 ### 🌎 [Deploy](https://cakes-and-bases.vercel.app/) || 📺 [YouTube](https://youtu.be/eyvWmnxu6-8)
