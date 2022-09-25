@@ -66,6 +66,8 @@
 
 ## My Hobbies
 🏃Runnig || 📷 Fotograph || 🚗 Mechanic
+<br/>
+
 
 ## 💌 Contact me:
 ### 💻 [linkedin](https://www.linkedin.com/in/gustavopagano03) || 📧 [E-Mail](mailto:gustavopagano03@gmail.com)
