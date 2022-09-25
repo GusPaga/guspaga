@@ -20,6 +20,7 @@
 
 ## Cake&Bases
 ### 🌎 [Deploy](https://cakes-and-bases.vercel.app/)
+### 📺 [YouTube](https://youtu.be/eyvWmnxu6-8)
     👉This is the final project for "Soy Henry", in this project we worked with 6 colleagues applying agile methodologies "SCRUM",
     dividing tasks and finally collaborating to reach the completion of the project.
 <br/>
@@ -60,6 +61,7 @@
 ## "Dogs"
 ### 💻 [GitHub](https://github.com/GusPaga/pi-dog)
 ### 🌎 [Deploy](https://pi-dog-guspaga.vercel.app/)
+### 📺 [YouTube](https://youtu.be/OLm4yT3UddE)
 #### 👉in this project, I understood the GitHub flow, achieving several improvements in the code
 <img align="center" height="600px" width="1200px" src="./Dogs.PNG" alt="PI-Dogs"/>
 <br/>
