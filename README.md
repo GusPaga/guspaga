@@ -64,10 +64,10 @@
 <img align="center" height="600px" width="1200px" src="./Dogs.PNG" alt="PI-Dogs"/>
 <br/>
 
-## My Hobbies
+<h2 align="center">My Hobbies</h2>
 🏃Runnig || 📷 Fotograph || 🚗 Mechanic
 <br/>
 
 
-## 💌 Contact me:
+<h2 align="center">💌 Contact me:</h2>
 ### 💻 [linkedin](https://www.linkedin.com/in/gustavopagano03) || 📧 [E-Mail](mailto:gustavopagano03@gmail.com)
