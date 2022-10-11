@@ -11,7 +11,7 @@
 
     Now I want to apply everything I have learned in these years of
 
-    work to becomeFullStack Developer!
+    work to become FullStack Developer!
 
 <br/>
 <br/>
