@@ -24,7 +24,7 @@
 ### 🌎 [Deploy](https://gap-portfolio.vercel.app) || 📺 [YouTube](https://www.youtube.com/watch?v=fXFi3BNHOiQ)
 👉 This is my Virtual-Cv, in this project, I show several of my projects and tell the technologies used to create them, I also apply everything I learned in the bootstrap course, adding modals, badges, buttons, carousel, navbar and footer.
 
-<img align="center" height="600px" width="1200px" src="https://i.ibb.co/Yf4FGdR/virtual-Cv1.png" alt="Cake&Bases-App" />
+<img align="center" height="600px" width="1200px" src="https://i.ibb.co/Yf4FGdR/virtual-Cv1.png" alt="Virtual-Cv" />
 <br/>
 
 
