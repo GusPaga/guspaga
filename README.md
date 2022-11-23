@@ -19,6 +19,14 @@
 <h1 align="center">Proyects</h1>
 <br/>
 
+
+## Portfolio
+### 🌎 [Deploy](https://gap-portfolio.vercel.app) || 📺 [YouTube](https://www.youtube.com/watch?v=fXFi3BNHOiQ)
+
+<img align="center" height="600px" width="1200px" src="https://i.ibb.co/Yf4FGdR/virtual-Cv1.png" alt="Cake&Bases-App" />
+<br/>
+
+
 ## Cake&Bases
 ### 🌎 [Deploy](https://cakes-and-bases.vercel.app/) || 📺 [YouTube](https://youtu.be/eyvWmnxu6-8)
     👉This is the final project for "Soy Henry", 
